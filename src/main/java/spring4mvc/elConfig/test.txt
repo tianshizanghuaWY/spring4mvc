@@ -1,0 +1,2 @@
+book.author=wangyuan
+book.name=spring boot
